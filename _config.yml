@@ -1,0 +1,28 @@
+name: Your Point Of You
+favicon: null
+layout_spectrum: 0.6950752707198262
+typography_spectrum: 0.18033012375235558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3340962140355259
+  lightness: 0.8985400861129165
+  saturation: 0.9145333804190159
+  rhythmicContrast: 0.2793070662301034
+purpose: []
