@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Your Point Of You]]></title>
         <description><![CDATA[Your Point Of You]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/your-point-of-you/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 17:04:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 17:05:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/your-point-of-you/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=UY75MQte4RU&index=2&list=PL40455C62D63BD18F</p>]]></description>
+            <link>https://thegrid.ai/your-point-of-you/596fa0df-c7b9-4d4f-b23c-e18fc180ef18/index.html</link>
+            <guid isPermaLink="false">596fa0df-c7b9-4d4f-b23c-e18fc180ef18</guid>
+            <pubDate>Wed, 09 Dec 2015 17:04:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6f09ac1-0fa6-4637-b63c-48fb618560ce.jpg">]]></description>
-            <link>undefinedhttpswwwyoutubecomwatchvrdhbcdjkac4andindex3andlistpl4/index.html</link>
+            <link>https://thegrid.ai/your-point-of-you/httpswwwyoutubecomwatchvrdhbcdjkac4andindex3andlistpl4/index.html</link>
             <guid isPermaLink="false">b569862e-7029-41e6-850c-31392848f46a</guid>
             <pubDate>Wed, 09 Dec 2015 17:04:31 GMT</pubDate>
         </item>
